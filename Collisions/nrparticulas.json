@@ -1,0 +1,53 @@
+{
+    "0": {
+        "emitted": 481,
+        "received": {
+            "0": 0,
+            "1": 27,
+            "2": 0
+        },
+        "coordinates": {
+            "x": -2,
+            "y": 0
+        }
+    },
+    "1": {
+        "emitted": 390,
+        "received": {
+            "0": 49,
+            "1": 0,
+            "2": 44
+        },
+        "coordinates": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "2": {
+        "emitted": 481,
+        "received": {
+            "0": 0,
+            "1": 24,
+            "2": 0
+        },
+        "coordinates": {
+            "x": 2,
+            "y": 0
+        }
+    },
+    "statistics": {
+        "total_received": 144,
+        "left": {
+            "count": 27,
+            "percentage": 18.75
+        },
+        "center": {
+            "count": 93,
+            "percentage": 64.58
+        },
+        "right": {
+            "count": 24,
+            "percentage": 16.67
+        }
+    }
+}

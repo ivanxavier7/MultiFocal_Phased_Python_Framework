@@ -1,0 +1,1442 @@
+[
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 95.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 95.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 95.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 95.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 95.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 95.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 95.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 95.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 95.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 85.0,
+        "tempo_ms": 329.24
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 0,
+        "emissor_coords": [
+            -2,
+            0
+        ],
+        "angulo": 80.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 1,
+        "sensor_emissor": 2,
+        "emissor_coords": [
+            2,
+            0
+        ],
+        "angulo": 100.0,
+        "tempo_ms": 333.05
+    },
+    {
+        "sensor_receptor": 2,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 75.0,
+        "tempo_ms": 339.56
+    },
+    {
+        "sensor_receptor": 0,
+        "sensor_emissor": 1,
+        "emissor_coords": [
+            0,
+            0
+        ],
+        "angulo": 105.0,
+        "tempo_ms": 339.56
+    }
+]
